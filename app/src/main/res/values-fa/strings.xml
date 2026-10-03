@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">فیس‌گارد</string>
+    <string name="app_full_name">استودیو فیس‌گارد — دوربین خصوصی و آفلاین</string>
+    <string name="privacy_offline_badge">پردازش کاملاً آفلاین • بدون اتصال ابری • حفاظت حریم خصوصی</string>
+    <string name="privacy_offline_desc">تمام جلوه‌های تار کردن چهره، ماسک‌های حریم خصوصی، پرده سبز و مدولاسیون صدا ۱۰۰٪ بر روی دستگاه انجام می‌شود. هیچ داده‌ای به هیچ سروری ارسال نمی‌شود.</string>
+    <string name="grant_permissions">اعطای مجوز دوربین و صدا</string>
+    <string name="permission_rationale">فیس‌گارد برای پیش‌نمایش، ماسک‌های حریم خصوصی و ضبط ویدیو به مجوز دوربین و میکروفون نیاز دارد. هیچ داده‌ای از دستگاه خارج نمی‌شود.</string>
+    <string name="record">ضبط</string>
+    <string name="stop">توقف</string>
+    <string name="switch_camera">تغییر دوربین</string>
+    <string name="privacy_mode">حریم خصوصی</string>
+    <string name="face_style">استایل چهره</string>
+    <string name="backgrounds">پس‌زمینه</string>
+    <string name="voice_studio">صدا</string>
+    <string name="gallery">گالری</string>
+    <string name="settings">تنظیمات</string>
+    <string name="low_perf_mode">حالت مصرف بهینه (ردمی نوت ۸)</string>
+</resources>

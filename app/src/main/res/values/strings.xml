@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FaceGuard</string>
+    <string name="app_full_name">FaceGuard Studio — Private Offline Camera</string>
+    <string name="privacy_offline_badge">OFFLINE PROCESSING • ZERO CLOUD • PRIVACY GUARD</string>
+    <string name="privacy_offline_desc">All biometric masks, blur, segmentation, and voice modulation run 100% on your device. No cloud storage, no remote servers, no telemetry.</string>
+    <string name="grant_permissions">Grant Camera &amp; Audio Permissions</string>
+    <string name="permission_rationale">FaceGuard requires camera and microphone permissions solely for local preview, privacy effects, and recording. No data ever leaves your device.</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="privacy_mode">Privacy</string>
+    <string name="face_style">Face Style</string>
+    <string name="backgrounds">Background</string>
+    <string name="voice_studio">Voice</string>
+    <string name="gallery">Gallery</string>
+    <string name="settings">Settings</string>
+    <string name="low_perf_mode">Thermal Guard (Redmi Note 8)</string>
+</resources>

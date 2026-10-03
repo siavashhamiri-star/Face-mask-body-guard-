@@ -1,0 +1,6 @@
+{
+  "name": "FaceGuard Studio",
+  "description": "Private offline camera with real-time face blur, privacy masks, chroma key backgrounds, and local video lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
